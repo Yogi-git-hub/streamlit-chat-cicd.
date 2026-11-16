@@ -4,7 +4,7 @@ from chatbot_logic import get_bot_response
 
 # Page configuration
 st.set_page_config(
-    page_title="My Chatbot",
+    page_title="My Chatbot for CI CD",
     page_icon="💬"
 )
 
